@@ -1,0 +1,1661 @@
+@media(max-width: 1280px) {
+    .dist_logistic_img img {
+        width: 400px;
+    }
+
+    .dist_tab_logistic_content {
+        padding-left: 0;
+    }
+
+    .dist_logistic_left {
+        padding-top: 0;
+    }
+
+    .base_tab_img img {
+        width: 500px;
+    }
+
+    .dist_tab_base_content {
+        justify-content: space-between;
+    }
+}
+
+@media(max-width:1200px) {
+    .header_bottom {
+        flex-direction: column;
+        justify-content: unset;
+        align-items: flex-start;
+    }
+
+    .header_nav {
+        margin-top: 24px;
+    }
+
+    .header_nav>ul>li:first-child {
+        margin-left: 0;
+    }
+
+    .standart_page_section {
+        padding-top: 205px;
+    }
+
+    .banner_right video {
+        max-height: 440px;
+    }
+
+    .main_products_tablinks {
+        overflow-x: scroll;
+        padding-bottom: 10px;
+    }
+
+    .footer_menu ul {
+        width: 400px;
+    }
+
+    .footer_menu ul li {
+        width: 50%;
+    }
+
+    .footer_menu ul {
+        margin-left: 50px;
+    }
+
+    .main_product_glasscards {
+        max-width: 100%;
+        overflow: hidden;
+    }
+
+    .gs_desc span {
+        font-size: 34px;
+    }
+
+    .mobil_logo {
+        display: block;
+        margin-bottom: 40px;
+    }
+
+    .footer_logo {
+        display: none;
+    }
+
+    .structure_card {
+        padding: 22px;
+    }
+
+    .structure_desc {
+        padding-left: 22px;
+    }
+
+    .brand_inner_brandlist ul {
+        margin-left: -16px;
+        margin-right: -16px;
+    }
+
+    .brand_inner_brandlist ul li {
+        padding-left: 16px;
+        padding-right: 16px;
+        width: calc(100% / 4);
+    }
+
+    .carrer_page_left {
+        width: calc(50% - 7px);
+        margin-right: 14px;
+    }
+
+    .carrer_page_right {
+        width: calc(50% - 7px);
+        margin-left: 0;
+    }
+
+    .apply_process ul li {
+        width: 100% !important;
+    }
+
+    .apply_process ul li {
+        margin-bottom: 30px;
+    }
+
+    .career_page_form {
+        height: auto;
+    }
+
+
+    .carrer_page_left,
+    .carrer_page_right {
+        padding: 27px 15px;
+    }
+
+    .carrer_page_right {
+        height: unset;
+    }
+
+    .carrer_page_left h4 {
+        text-align: center;
+    }
+
+    .gs_box {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .gs_icon_count span {
+        font-size: 45px;
+    }
+
+    .gs_desc p {
+        font-size: 20px;
+    }
+
+    .gs_box {
+        height: 138px;
+        border-radius: 24px;
+        padding: 22px;
+    }
+
+    .gs_desc {
+        margin-top: 10px;
+    }
+
+    .main_product_glasscards {
+        margin-top: -172px;
+    }
+
+    /*2022*/
+    .dist_page_tablinks ul li a {
+        font-size: 16px;
+    }
+
+    .dist_page_tablinks ul li {
+        margin: 0 16px;
+    }
+
+    .dist_tab_content .dist_tab_bigtitle,
+    .dist_logistic_left h4,
+    .base_tab_cont h4 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+
+    .base_tab_text h5 {
+        font-size: 18px;
+    }
+
+    .dist_tab_standart_content,
+    .dist_logistic_cont,
+    .base_tab_small_text {
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+    .career_page_image_content_left_content {
+        padding-right: 40px;
+    }
+
+    .partners_countries {
+        overflow-x: scroll;
+        overflow-y: hidden;
+        height: 59px;
+    }
+
+    .partners_countries a {
+        white-space: nowrap;
+        padding: 0 15px;
+        padding-bottom: 12px;
+        height: 58px;
+    }
+
+    .timeline-year:after {
+        width: 100%;
+        left: 0;
+    }
+
+
+}
+
+@media(max-width:991px) {
+    .glass_mobile_slider {
+        display: block;
+        margin-top: -165px;
+    }
+
+    .video_map {
+        width: 495px;
+        height: 400px;
+    }
+
+    .glass_mobile_slider {
+        margin-bottom: 22px;
+    }
+
+    .main_product_glasscards {
+        margin-left: -17px;
+        margin-right: -17px;
+    }
+
+    .gs_card {
+        padding: 0 17px;
+    }
+
+    .main_product_glasscards {
+        padding-right: 47px;
+    }
+
+    .apply_desc p {
+        font-size: 17px;
+    }
+
+    .brand_inner_brandlist ul {
+        margin-left: -8px;
+        margin-right: -8px;
+    }
+
+    .brand_inner_brandlist ul li {
+        padding-left: 8px;
+        padding-right: 8px;
+        width: calc(100% / 3);
+    }
+
+    .banner_content {
+        flex-direction: column-reverse;
+    }
+
+    .banner_right video {
+        max-height: 400px;
+    }
+
+    .banner_right {
+        height: auto;
+        width: 100%;
+    }
+
+    .mobile_filters {
+        display: flex;
+        align-items: center;
+        margin-bottom: 15px;
+    }
+
+    .mobile_filters>div {
+        width: calc(50% - 10px);
+    }
+
+    .mobile_filters .nice-select {
+        height: 40px;
+        background-color: transparent;
+        border-radius: 7px;
+        border: 1px solid #785FD4;
+    }
+
+    .mobile_filters .nice-select.open {
+        background-color: #674DCB;
+    }
+
+    .two_side_title {
+        align-items: flex-start;
+    }
+
+    .page_title h2 {
+        line-height: 40px;
+    }
+
+    .product_search_cont {
+        width: 444px;
+    }
+
+    .product_search input {
+        height: 40px;
+    }
+
+    .mobile_filters>div:first-child {
+        margin-right: 20px;
+    }
+
+    .product_search_cont {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .banner_right {
+        justify-content: center;
+    }
+
+    .banner_left {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .banner_content {
+        transform: none;
+        padding-top: 200px;
+    }
+
+    .main_banner {
+        width: 100%;
+        height: auto;
+        background-color: #351E8A;
+        padding-bottom: 100px;
+    }
+
+    .header_nav>ul>li {
+        margin-left: 36px;
+    }
+
+    .main_products_section .container,
+    .main_brends_section .container {
+        max-width: 100%;
+        padding-right: 0;
+        padding-left: 50px;
+    }
+
+    .glass_mobile_slider {
+        padding-right: 50px;
+    }
+
+    .footer_menu ul {
+        width: 290px;
+    }
+
+    .counter {
+        margin-left: 20px;
+    }
+
+    .container {
+        max-width: 100%;
+        padding: 0 50px;
+    }
+
+    .main_product_slide_buttons .show_more {
+        margin-right: 50px;
+    }
+
+    .main_product_slide a {
+        width: 139px;
+    }
+
+    .main_product_slide a {
+        height: 143px;
+    }
+
+    .main_brends_section .main_product_slide a img {
+        width: 103px;
+    }
+
+    .main_brends_section .main_product_slide a {
+        height: 85px;
+    }
+
+    .search_box input.active {
+        width: 380px;
+    }
+
+    .products_left {
+        display: none;
+    }
+
+    .products_right {
+        width: 100%;
+    }
+
+    .product_page_list {
+        padding-left: 0;
+    }
+
+
+
+    .standart_page_section .container {
+        max-width: 100%;
+        padding: 0;
+    }
+
+    .breadcrumbs {
+        padding: 0 50px;
+        padding-bottom: 12px;
+    }
+
+    .about_tab_container {
+        border-radius: 0;
+    }
+
+    .about_tablinks ul li a {
+        font-size: 19px;
+    }
+
+    .about_tablinks ul li a svg {
+        height: 20px;
+    }
+
+    .about_tab_container {
+        padding-top: 24px;
+    }
+
+    .standart_page_content {
+        padding: 0 50px;
+    }
+
+    .brends_list ul li a {
+        height: 140px;
+    }
+
+    .brends_list ul li {
+        width: calc(100% / 4);
+    }
+
+    .brend_page_description {
+        flex-direction: column;
+    }
+
+    .brend_page_desc {
+        padding-left: 0;
+        width: 100%;
+        margin-top: 15px;
+    }
+
+    .brend_page_img {
+        width: 100%;
+        border-right: 0;
+    }
+
+    .brand_inner_brandlist ul li {
+        margin-bottom: 0;
+    }
+
+    .brand_inner_brandlist ul li .product_box {
+        margin-top: 32px;
+    }
+
+    .similar_products_slider .main_product_slide a {
+        width: 100%;
+    }
+
+    .product_detail_right {
+        padding-left: 20px;
+    }
+
+    .pis_mob {
+        display: flex;
+    }
+
+    .pis_desk {
+        display: none;
+    }
+
+    .accordion_open,
+    .accrodion_desc {
+        padding-right: 125px;
+    }
+
+    .contact_page_content {
+        padding: 0 !important;
+    }
+
+    .news_inner_img {
+        width: 350px;
+        height: auto;
+    }
+
+
+    .partners_container {
+        padding: 48px 32px;
+    }
+
+    .partner_img {
+        width: 110px;
+    }
+
+    .partner_desc {
+        width: calc(100% - 110px);
+        padding-left: 12px;
+    }
+
+    .gs_desc p {
+        font-size: 16px;
+    }
+
+    .gs_icon {
+        width: 45px;
+        height: 45px;
+    }
+
+    .gs_box {
+        height: 120px;
+    }
+
+    .main_product_glasscards {
+        margin-top: -162px;
+    }
+
+    .gs_icon img {
+        height: 25px;
+    }
+
+    .gs_icon_count span {
+        font-size: 40px;
+    }
+
+    .dist_tab_logistic_content {
+        flex-direction: column;
+    }
+
+    .dist_logistic_left {
+        width: 281px;
+    }
+
+    .dist_logistic_img {
+        width: 100%;
+        margin: 40px 0;
+    }
+
+    .dist_logistic_img {
+        position: relative;
+        right: 0;
+        top: 0;
+        min-height: auto;
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .dist_tab_base_content {
+        justify-content: unset;
+        flex-direction: column-reverse;
+    }
+
+    .base_tab_text {
+        width: 100%;
+    }
+
+    .base_tab_img {
+        width: 100%;
+        padding-top: 0;
+        display: flex;
+        justify-content: center;
+    }
+
+    .base_tab_cont h4 {
+        font-size: 25px;
+    }
+
+    .base_tab_cont {
+        margin: 40px 0;
+    }
+
+    .base_tab_img img {
+        width: 100%;
+        object-fit: scale-down;
+    }
+
+
+
+
+    .career_page_image_content_image img {
+        width: 200px;
+    }
+
+    .career_page_image_content_left_content {
+        font-size: 15px;
+        line-height: 28px;
+    }
+
+    .tab_image_desktop {
+        display: none;
+    }
+
+    .tab_image_tablet {
+        display: block;
+    }
+
+    .dist_new_page_content {
+        padding: 0 !important;
+        width: 100%;
+    }
+
+    .dist_tab_content {
+        padding: 0 25px;
+    }
+
+    .dist_logistic_img {
+        display: none;
+    }
+
+    .dist_tab3 {
+        background-position: top;
+        background-repeat: no-repeat;
+        background-image: url(images/log_mask.png);
+        background-size: cover;
+    }
+
+    .dist_tab4 {
+        background-position: 0px 465px;
+        background-repeat: no-repeat;
+        background-image: url(images/base_mask.png);
+        background-size: 100%;
+    }
+
+    .dist_new_page_content {
+        margin-bottom: 0 !important;
+    }
+
+    .base_tab_img {
+        display: none;
+    }
+
+    .dist_tab {
+        padding-top: 45px;
+        padding-bottom: 45px;
+    }
+
+    .dist_new_page_section {
+        padding-bottom: 0 !important;
+    }
+
+    .dist_page_container_new {
+        padding-top: 0;
+    }
+}
+
+@media(max-width:768px) {
+
+    .main_products_section .container,
+    .main_brends_section .container {
+        max-width: 100%;
+        padding-right: 0;
+        padding-left: 50px;
+    }
+
+    .dist_page_tablinks ul {
+        margin: 0 25px;
+    }
+
+    .main_products_tablinks a img {
+        width: 24px;
+    }
+
+    .search_box input.active {
+        width: 480px;
+    }
+
+    .partner_box {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        flex-direction: column;
+    }
+
+    .partner_box>div {
+        width: 100%;
+        padding-left: 0;
+    }
+
+    .partners_container {
+        padding: 30px 16px;
+    }
+
+    .partner_img {
+        width: 100%;
+        margin-bottom: 14px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .partner_desc_cont {
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .partner_name {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .search_result_title h3 {
+        font-size: 16px;
+    }
+
+    .search_result_icon {
+        height: 27px;
+        width: 27px;
+    }
+
+    .search_result_icon img {
+        width: 11px;
+    }
+
+    .dist_page_text h4 {
+        font-size: 15px;
+    }
+
+    .search_results ul li a {
+        font-size: 12px;
+    }
+
+    .kw:after {
+        height: 14px;
+    }
+
+    .key_words div {
+        font-size: 12px;
+    }
+
+    .dist_page_text {
+        font-size: 12px;
+    }
+
+    .dist_page_text {
+        margin-top: 23px;
+    }
+
+    .dist_page_cont {
+        margin-bottom: 40px;
+    }
+
+    .news_inner_gallery .row>div {
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+
+    .news_in_date {
+        font-size: 12px;
+    }
+
+    .news_page_content {
+        font-size: 12px;
+        margin-top: 19px;
+    }
+
+    .news_inner_img {
+        width: 100%;
+        margin-left: 0;
+        margin-bottom: 22px;
+    }
+
+    .news_title h4 {
+        font-size: 16px;
+    }
+
+    .news_inner_gallery a {
+        margin-bottom: 16px;
+    }
+
+    .news_inner_gallery .row {
+        margin-left: -8px;
+        margin-right: -8px;
+    }
+
+    .news_card {
+        width: 273px;
+    }
+
+    .news_inner_gallery a {
+        height: 113px;
+    }
+
+    .contact_box {
+        width: calc(100% - 50px);
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        margin-bottom: 40px;
+    }
+
+    .contact_left,
+    .contact_right {
+        width: 100%;
+    }
+
+    .news_img {
+        height: 198px;
+    }
+
+    .news_card {
+        margin-bottom: 26px;
+    }
+
+    .pagination ul li.page_prev a,
+    .pagination ul li.page_next a {
+        font-size: 12px;
+    }
+
+    .pagination ul li.page_prev a p,
+    .pagination ul li.page_next a p {
+        display: none;
+    }
+
+    .pagination {
+        margin-bottom: 30px;
+    }
+
+    .pagination ul li a {
+        font-size: 12px;
+        width: 24px;
+        height: 24px;
+    }
+
+    .page_prev {
+        margin-right: 10px !important;
+    }
+
+    .page_next {
+        margin-left: 10px !important;
+    }
+
+    .map_box {
+        height: 205px;
+    }
+
+    .contact_box {
+        margin-top: -92px;
+    }
+
+    .contact_left {
+        padding: 36px 33px;
+    }
+
+    .form_elements .form_submit {
+        width: 100%;
+        height: 42px;
+    }
+
+    .contact_right {
+        padding: 24px 33px;
+    }
+
+    .product_detail {
+        flex-direction: column;
+    }
+
+    .vacancy_accordion {
+        padding: 29px 23px;
+    }
+
+    .file_upload {
+        padding: 10.2px 12px 10.1px 12.1px;
+    }
+
+    .apply_number {
+        width: 43px;
+        height: 43px;
+        font-size: 17px;
+    }
+
+    .career_midtitle {
+        padding-bottom: 10px;
+        margin-bottom: 23px;
+    }
+
+    .career_page_form {
+        flex-direction: column;
+    }
+
+    .accordion_arrow {
+        position: relative;
+        top: unset;
+        transform: none;
+        margin-top: 25px;
+    }
+
+    .career_page_form>div {
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .accrodion_desc {
+        padding-right: 0;
+    }
+
+    .carrer_page_right {
+        margin-top: 21px;
+    }
+
+    .carrer_page_left h4 {
+        font-size: 24px;
+    }
+
+    .accordion_open {
+        padding-right: 0;
+    }
+
+    .product_detail_left {
+        width: 247px;
+    }
+
+    .product_detail_right {
+        width: 100%;
+        padding-left: 0;
+        margin-top: 14px;
+    }
+
+    .product_in_name p {
+        font-size: 16px;
+    }
+
+    .product_in_desc {
+        margin-top: 10px;
+        font-size: 12px;
+    }
+
+    .product_in_share p {
+        font-size: 12px;
+    }
+
+    .page_midtitle h3 {
+        font-size: 20px;
+    }
+
+    .product_in_share {
+        height: 46px;
+        padding: 0 15px;
+        margin-top: 20px;
+    }
+
+    .product_in_share .socials a {
+        width: 27px;
+        height: 27px;
+    }
+
+    .product_in_desc h5 {
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+
+    .product_in_name span {
+        font-size: 12px;
+    }
+
+    .br_in_mg {
+        width: 165px;
+        height: 85px;
+    }
+
+    .brend_page_img p {
+        font-size: 23px;
+        margin-top: 15px;
+    }
+
+    .brend_page_description {
+        padding-bottom: 10px;
+        border-bottom: 0;
+    }
+
+    .brend_page_desc {
+        font-size: 12px;
+    }
+
+    .brend_page_img {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .brand_inner_brandlist ul li .product_box {
+        margin-top: 16px;
+    }
+
+    .brends_list ul li {
+        border-bottom: 0;
+        width: calc(100% / 3);
+    }
+
+    .brand_inner_brandlist ul li {
+
+        width: calc(100% / 2);
+    }
+
+    .brends_list {
+        padding: 10px 20px;
+    }
+
+    .brends_list ul li a {
+        height: 105px;
+    }
+
+    .breadcrumbs {
+        padding: 0 25px;
+        padding-bottom: 12px;
+    }
+
+    .product_page_list .row>div {
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+
+    .product_box {
+        height: 217px;
+        padding: 14px 10px;
+        border-radius: 8px;
+        margin-top: 19px;
+    }
+
+    .product_img {
+        height: 120px;
+    }
+
+    .product_name p {
+        font-size: 12px;
+    }
+
+    .product_name p span {
+        font-size: 11px;
+    }
+
+    .product_page_list .row {
+        margin-left: -8px;
+        margin-right: -8px;
+    }
+
+    .two_side_title {
+        flex-direction: column;
+    }
+
+    .product_search_cont {
+        width: 100%;
+    }
+
+    .header_menu {
+        display: none;
+    }
+
+    .glass_mobile_slider {
+        padding-right: 50px;
+    }
+
+    .footer_menu ul {
+        width: 290px;
+    }
+
+    .main_product_slide_buttons .show_more {
+        margin-right: 50px;
+    }
+
+    .footer_contact p {
+        display: none;
+    }
+
+    .footer_box {
+        flex-wrap: wrap;
+    }
+
+    .footer_left {
+        order: 1;
+        width: 50%;
+    }
+
+    .footer_right {
+        order: 2;
+        width: 50%;
+
+    }
+
+    .footer_center {
+        width: 100%;
+        order: 3;
+        margin-top: 27px;
+        padding: 20px 0;
+        border-top: 1px solid #6B52C8;
+        border-bottom: 1px solid #6B52C8;
+    }
+
+    .footer_menu ul {
+        width: 100%;
+        margin-left: 0;
+        padding: 0 16px;
+    }
+
+    .copyright {
+        display: none;
+    }
+
+    .mob_copy {
+        display: block !important;
+        margin-top: 18px;
+        order: 4;
+    }
+
+    .footer_menu ul li {
+        width: calc(100% / 3);
+    }
+
+    .container {
+        padding: 0 25px;
+    }
+
+    .footer_menu ul li a {
+        font-size: 12px;
+    }
+
+    .main_product_slide_buttons .show_more {
+        font-size: 12px;
+    }
+
+    .prev,
+    .next {
+        width: 45px;
+        height: 36px;
+    }
+
+    .main_product_slide_buttons {
+        margin-top: 27px;
+    }
+
+    .section_title p {
+        font-size: 14px;
+    }
+
+    .gs_box {
+        border-radius: 10px;
+    }
+
+    .gs_icon_count span {
+        font-size: 23px;
+    }
+
+    .gs_icon {
+        width: 28px;
+        height: 28px;
+    }
+
+    .gs_icon img {
+        height: 16px;
+    }
+
+    .main_product_glasscards {
+        padding-right: 22px;
+    }
+
+    .main_products_section .container,
+    .main_brends_section .container {
+        padding-left: 25px;
+    }
+
+    .main_product_glasscards {
+        margin-top: -141px;
+    }
+
+    .main_product_glasscards {
+        margin-left: -6px;
+        margin-right: -6px;
+    }
+
+    .gs_card {
+        padding-left: 6px;
+        padding-right: 6px;
+    }
+
+    .glass_mobile_slider .owl-carousel .owl-item img {
+        width: 18px;
+    }
+
+    .gs_icon {
+        margin-right: 16px;
+    }
+
+    .gs_box {
+        padding: 10px 15px;
+    }
+
+    .gs_desc {
+        margin-top: 5px;
+    }
+
+    .gs_box:after {
+        border-radius: 10px;
+    }
+
+    .banner_left h1 {
+        font-size: 30px;
+        line-height: 46px;
+    }
+
+    .banner_text {
+        font-size: 12px;
+        line-height: 22px;
+    }
+
+    .glass_mobile_slider {
+        margin-top: -138px;
+        margin-bottom: 22px;
+    }
+
+    .footer_container {
+        padding-top: 40px;
+        padding-bottom: 21px;
+    }
+
+    .main_banner {
+        padding-bottom: 75px;
+    }
+
+    .banner_right video {
+        max-width: 100%;
+    }
+
+    .banner_left a {
+        padding-left: 40px;
+        background-color: #7A5CEE;
+    }
+
+    .banner_left a {
+        font-size: 15px;
+        height: 59px;
+        width: 184px;
+    }
+
+    .glass_mobile_slider {
+        padding-right: 0;
+    }
+
+    .gs_desc p {
+        font-size: 12px;
+        line-height: 16px;
+    }
+
+    .gs_icon {
+        width: 36px;
+        height: 36px;
+    }
+
+    .gs_desc span {
+        font-size: 32px;
+    }
+
+    .gs_box {
+        height: 78px;
+    }
+
+    .main_products_tablinks {
+        margin-bottom: 28px;
+    }
+
+    .counter {
+        font-size: 14px;
+    }
+
+    .section_title h2 {
+        font-size: 25px;
+    }
+
+    .f_conts a,
+    .mob_copy {
+        font-size: 12px;
+    }
+
+    .mobile_menu_open,
+    .mobile_top_logo {
+        display: block;
+    }
+
+    .mobile_top_logo {
+        transform: translateY(2px);
+    }
+
+    .banner_content {
+        padding-top: 90px;
+    }
+
+    .main_products_section {
+        padding-bottom: 38px;
+    }
+
+    .header_right_links {
+        display: none;
+    }
+
+    .header_top_right .socials a {
+        display: none;
+    }
+
+    .standart_page_section {
+        padding-top: 131px;
+    }
+
+    .page_title h2 {
+        font-size: 25px;
+    }
+
+    .breadcrumbs ul li a,
+    .breadcrumbs ul li:after {
+        font-size: 12px;
+    }
+
+    .langbar a {
+        text-transform: none;
+        margin-right: 0;
+        margin-left: 13px;
+    }
+
+    .main_products_tablinks a {
+        flex: none;
+    }
+
+    .main_product_slide_buttons .show_more {
+        margin-right: 25px;
+    }
+
+    .main_brends_section {
+        padding-top: 21px;
+        padding-bottom: 34px;
+    }
+
+    .header_bottom {
+        display: none;
+    }
+
+    .header_top .langbar {
+        display: none;
+    }
+
+    .header_top {
+        padding: 44px 0;
+    }
+
+    .about_tablinks ul {
+        justify-content: flex-start;
+        padding-left: 25px;
+    }
+
+    .about_tab_inner {
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-top: 23px;
+    }
+
+    .about_tablinks ul {
+        overflow-x: scroll;
+        padding-bottom: 18px;
+    }
+
+    .about_tablinks:after {
+        margin-top: 0;
+    }
+
+    .standart_page_content {
+        padding: 0 25px;
+    }
+
+    .full_page_content {
+        padding: 0;
+    }
+
+    .structure_list {
+        padding: 0;
+    }
+
+    .structure_img {
+        height: 72px;
+        width: 72px;
+    }
+
+    .standart_page_section {
+        padding-bottom: 10px;
+    }
+
+    .standart_page_content {
+        margin-bottom: 0;
+    }
+
+    .tab1_content {
+        font-size: 12px;
+        line-height: 24px;
+    }
+
+    .year_btn {
+        font-size: 16px;
+    }
+
+    .about_tab_small_container {
+        min-height: 250px;
+    }
+
+    .breadcrumbs {
+        padding: 0 25px;
+        padding-bottom: 12px;
+    }
+
+    .about_tab_inner {
+        padding-bottom: 30px;
+    }
+
+    .structure_card {
+        height: 110px;
+    }
+
+    .tab_logo {
+        display: none;
+    }
+
+    .structure_desc p {
+        font-size: 16px;
+    }
+
+    .structure_desc span {
+        font-size: 12px;
+    }
+
+    .brends_list ul li a img {
+        max-height: 90%;
+        max-width: 90%;
+    }
+
+    .dist_page_title {
+        font-size: 25px;
+        line-height: 40px;
+    }
+
+    .dist_tab_bigtitle,
+    .dist_tab_area_title {
+        font-size: 25px;
+        line-height: 40px;
+    }
+
+    .dist_tab_area_content2,
+    .dist_tab_area_content {
+        text-align: center;
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+    .dist_logistic_img img {
+        width: 100%;
+    }
+
+    .career_page_image_content {
+        justify-content: unset;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .career_page_image_content_left_content {
+        padding-right: 0;
+        margin-bottom: 30px;
+    }
+
+    .career_page_image_content_image img {
+        width: 100%;
+    }
+
+    .career_page_image_content_left {
+        width: 100%;
+    }
+
+    .about_tab_small_container {
+        max-width: 100%;
+    }
+
+    .timeline-content {
+        font-size: 12px;
+        line-height: 24px;
+    }
+
+    .dist_tab3 {
+        background-image: none;
+    }
+
+    .dist_tab4 {
+        background-image: none;
+    }
+
+    .dist_logistic_img {
+        display: block;
+        overflow: hidden;
+    }
+
+    .dist_logistic_img img {
+        transform: translateX(179px);
+    }
+
+    .base_tab_img {
+        display: block;
+    }
+
+    .dist_tab_base_content {
+        flex-direction: column;
+    }
+
+    .dist_tab_logistic_content {
+        padding-bottom: 150px;
+    }
+
+    .base_tab_cont {
+        width: 100%;
+    }
+
+    .dist_logistic_img {
+        position: absolute;
+        bottom: 0 !important;
+        top: unset;
+    }
+}
+
+
+@media(max-width:600px) {
+    .search_box input.active {
+        width: 395px;
+    }
+
+    .dist_page_tablinks {
+        justify-content: flex-start;
+    }
+
+    .dist_page_tablinks ul li {
+        margin-left: 0;
+        margin-right: 20px;
+    }
+
+    .dist_page_tablinks ul li a {
+        white-space: nowrap;
+    }
+
+    .dist_page_tablinks ul {
+        overflow-x: scroll;
+        overflow-y: hidden;
+        height: 31px;
+    }
+
+}
+
+@media(max-width:500px) {
+    .about_tablinks ul li {
+        margin-right: 32px;
+    }
+
+    .about_tablinks ul li a {
+        font-size: 12px;
+    }
+
+    .about_tablinks ul li a svg {
+        height: 15px;
+    }
+
+    .brends_list ul li a {
+        height: 85px;
+    }
+
+    .search_box input.active {
+        width: 330px;
+    }
+
+    .gs_box {
+        padding: 10px 8px;
+        height: 72px;
+    }
+
+    .gs_desc p {
+        font-size: 9px;
+        white-space: nowrap;
+        line-height: 9px;
+    }
+
+    .main_product_glasscards {
+        margin-left: -3px;
+        margin-right: -3px;
+    }
+
+    .video_map {
+        width: 100%;
+        height: 300px;
+    }
+
+    .gs_card {
+        padding-left: 3px;
+        padding-right: 3px;
+    }
+
+
+
+    .gs_icon {
+        margin-right: 6px;
+    }
+
+    .gs_icon_count span {
+        font-size: 16px;
+    }
+
+    .dist_logistic_img {
+        margin-left: 25px;
+    }
+
+    .dist_logistic_img {
+        margin-top: -45px;
+    }
+
+
+
+    .dist_logistic_left {
+        margin-bottom: 30px;
+    }
+
+    .dist_logistic_left h4 {
+        font-size: 25px;
+    }
+}
+
+@media(max-width:450px) {
+    .search_box input.active {
+        width: 300px;
+    }
+}
+
+@media(max-width:400px) {
+    .search_box input.active {
+        width: 280px;
+    }
+}
+
+@media(max-width:380px) {
+    .search_box input.active {
+        width: 260px;
+    }
+
+    .mobile_top_logo img {
+        width: 175px;
+    }
+}
+
+@media(max-width:360px) {
+    .search_box input.active {
+        width: 240px;
+    }
+}
+
+@media(max-width:340px) {
+    .search_box input.active {
+        width: 220px;
+    }
+}
